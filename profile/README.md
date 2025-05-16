@@ -1,5 +1,7 @@
 ![Myriota](../MYR_575_Master_Logo.png)
 
+<img src="../MYR_575_Master_Logo.jpg" height="50">
+
 # Welcome to Myriota on GitHub
 
 
