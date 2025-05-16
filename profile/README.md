@@ -16,8 +16,8 @@
 ### **Ready to build** 
 - **Do you have a [Myriota Dev Kit](https://myriota.com/myriota-dev-kit/) or [Myriota Module](https://myriota.com/myriota-module/)?**
 <p float="left">
-  <img src="../Myriota Dev Kit.png" height="100" />
-  <img src="../Myriota-Module-400x400.png" height="100" /> 
+  <img src="../Myriota Dev Kit.png" height="300" />
+  <img src="../Myriota-Module-400x400.png" height="300" /> 
 </p>
   - [SDK repository and code examples](https://github.com/Myriota/SDK)
   - [API documentation](https://support.myriota.com/hc/en-us/articles/6531701921935-Overview)
