@@ -1,9 +1,9 @@
-<p align="center">
 <img src="../MYR_575_Master_Logo.png" alt="Myriota" height=100>
-<h1 align="center">Welcome to Myriota on GitHub</h3>
-<p align="center">
-:globe_showing_asia_australia: **The telco for global field intelligence** </p>
-</p>
+
+# Welcome to Myriota on GitHub
+
+
+:globe_showing_asia_australia: **The telco for global field intelligence**
 
 ## Not sure where to begin?
 
