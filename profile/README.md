@@ -1,4 +1,4 @@
-<img src="../MYR_575_Master_Logo.png" alt="Myriota" height=100>
+![Myriota]("../MYR_575_Master_Logo.png")
 
 # Welcome to Myriota on GitHub
 
