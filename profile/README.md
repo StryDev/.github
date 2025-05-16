@@ -9,11 +9,11 @@
 
 ## Not sure where to begin?
 
-### **Just exploring**
+### **Just exploring** 🔍
 - [Learn more on our website](https://myriota.com/)
 - [Browse our case studies](https://myriota.com/category/case-studies/)
 
-### **Ready to build** 
+### **Ready to build** 💻
 - **Do you have a [Myriota Dev Kit](https://myriota.com/myriota-dev-kit/) or [Myriota Module](https://myriota.com/myriota-module/)?**
 <p float="left">
   <img src="../Myriota Dev Kit.png" height="400" />
@@ -23,6 +23,8 @@
   - [SDK repository and code examples](https://github.com/Myriota/SDK)
   - [API documentation](https://support.myriota.com/hc/en-us/articles/6531701921935-Overview)
   - [Hardware design and integration guides](https://support.myriota.com/hc/en-us/articles/12009401540623-Download-Myriota-Antenna-Selection-Guide)
+
+---
 
 - **Do you have a [FlexSense device](https://myriota.com/flexsense/)?**
 <p float="left">
