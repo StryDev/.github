@@ -14,10 +14,9 @@
 ### **Ready to build** 
 - **Do you have a [Myriota Dev Kit](https://myriota.com/myriota-dev-kit/) or [Myriota Module](https://myriota.com/myriota-module/)?**
 <p float="left">
-  <img src="../MYR_575_Master_Logo.png" width="100" />
-  <img src="../MYR_575_Master_Logo.png" width="100" /> 
+  <img src="../MYR_575_Master_Logo.png" height="100" />
+  <img src="../MYR_575_Master_Logo.png" height="100" /> 
 </p>
-  <img src="../MYR_575_Master_Logo.png" alt="Myriota" height=100>
   - [SDK repository and code examples](https://github.com/Myriota/SDK)
   - [API documentation](https://support.myriota.com/hc/en-us/articles/6531701921935-Overview)
   - [Hardware design and integration guides](https://support.myriota.com/hc/en-us/articles/12009401540623-Download-Myriota-Antenna-Selection-Guide)
