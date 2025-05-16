@@ -4,7 +4,9 @@
 <p align="center">
 🚀 <b>The telco for global field intelligence </b>🚀</p>
 </p>
+
 ---
+
 ## Not sure where to begin?
 
 ### **Just exploring**
@@ -14,8 +16,8 @@
 ### **Ready to build** 
 - **Do you have a [Myriota Dev Kit](https://myriota.com/myriota-dev-kit/) or [Myriota Module](https://myriota.com/myriota-module/)?**
 <p float="left">
-  <img src="../MYR_575_Master_Logo.png" height="100" />
-  <img src="../MYR_575_Master_Logo.png" height="100" /> 
+  <img src="../Myriota Dev Kit.png" height="100" />
+  <img src="../Myriota-Module-400x400.png" height="100" /> 
 </p>
   - [SDK repository and code examples](https://github.com/Myriota/SDK)
   - [API documentation](https://support.myriota.com/hc/en-us/articles/6531701921935-Overview)
