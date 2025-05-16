@@ -2,17 +2,8 @@
 <img src="../MYR_575_Master_Logo.png" alt="Myriota" height=100>
 <h1 align="center">Welcome to Myriota on GitHub</h3>
 <p align="center">
-🌏 **The telco for global field intelligence** </p>
+🚀 <b>The telco for global field intelligence** </b>🚀</p>
 </p>
-
-![Myriota](../MYR_575_Master_Logo.png)
-
-<img src="../MYR_575_Master_Logo.png" height="150">
-
-# Welcome to Myriota on GitHub
-
-
-🌏 **The telco for global field intelligence**
 
 ## Not sure where to begin?
 
