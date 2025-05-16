@@ -16,8 +16,8 @@
 ### **Ready to build** 💻
 - **Do you have a [Myriota Dev Kit](https://myriota.com/myriota-dev-kit/) or [Myriota Module](https://myriota.com/myriota-module/)?**
 <p float="left">
-  <img src="../Myriota Dev Kit.png" height="400" />
-  <img src="../Myriota-Module-400x400.png" height="400" /> 
+  <img src="../Myriota Dev Kit.png" height="250" />
+  <img src="../Myriota-Module-400x400.png" height="250" /> 
 </p>
 
   - [SDK repository and code examples](https://github.com/Myriota/SDK)
@@ -28,7 +28,7 @@
 
 - **Do you have a [FlexSense device](https://myriota.com/flexsense/)?**
 <p float="left">
-  <img src="../Myriota FlexSense_21.jpg" height="400" />
+  <img src="../Myriota FlexSense_21.jpg" height="250" />
 </p>
 
   - [SDK repository and basic code examples](https://github.com/Myriota/Flex-SDK)
@@ -39,11 +39,11 @@
   - [FlexAssist mobile application - iOS](https://apps.apple.com/us/app/flexassist/id6474694371)
   - [User guides](https://support.myriota.com/hc/en-us/articles/9910489338639-User-Guides)
 
-### **Need technical support**
+### **Need technical support** 📞
 - [Technical documentation](https://support.myriota.com/hc/en-us?kb)
 - [Submit a ticket](https://support.myriota.com/hc/en-us/requests/new)
 
-### **Planning a commercial rollout**
+### **Planning a commercial rollout** 📦
 - [Contact us](https://myriota.com/contact-us/) to discuss pricing, volumes & support.
 
 ---
