@@ -1,4 +1,4 @@
-![Myriota]("../MYR_575_Master_Logo.png")
+![Myriota](../MYR_575_Master_Logo.png)
 
 # Welcome to Myriota on GitHub
 
