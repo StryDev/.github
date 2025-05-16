@@ -16,8 +16,8 @@
 ### **Ready to build** 
 - **Do you have a [Myriota Dev Kit](https://myriota.com/myriota-dev-kit/) or [Myriota Module](https://myriota.com/myriota-module/)?**
 <p float="left">
-  <img src="../Myriota Dev Kit.png" height="500" />
-  <img src="../Myriota-Module-400x400.png" height="500" /> 
+  <img src="../Myriota Dev Kit.png" height="400" />
+  <img src="../Myriota-Module-400x400.png" height="400" /> 
 </p>
 
   - [SDK repository and code examples](https://github.com/Myriota/SDK)
@@ -26,8 +26,9 @@
 
 - **Do you have a [FlexSense device](https://myriota.com/flexsense/)?**
 <p float="left">
-  <img src="../Myriota FlexSense_21.jpg" height="500" />
+  <img src="../Myriota FlexSense_21.jpg" height="400" />
 </p>
+
   - [SDK repository and basic code examples](https://github.com/Myriota/Flex-SDK)
   - [Comprehensive reference applications](https://github.com/Myriota/Flex-Reference-Applications)
   - [API documentation](https://flex-docs.myriota.com/)
